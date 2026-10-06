@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<!-- Sameer Shoukat | Full Stack Developer | AI Engineer | MEAN Stack | React Native | LLMs | RAG | Node.js | MongoDB | TypeScript | Python | Machine Learning -->
+<!-- Sameer Shoukat | Full Stack Developer | AI Engineer | MERN Stack | React Native | LLMs | RAG | Node.js | MongoDB | TypeScript | Python | Machine Learning -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=200&section=header&text=Sameer%20Shoukat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Full%20Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=18&descColor=AFA9EC&descAlignY=50&descAlign=50" width="100%" alt="Sameer Shoukat"/>
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7F77DD&center=true&vCenter=true&repeat=true&width=700&height=40&lines=4%2B+years+shipping+full-stack+web+%26+mobile+apps;MEAN+Stack+%C2%B7+React+Native+%C2%B7+TypeScript+%C2%B7+Node.js;Now+going+all-in+on+AI+Engineering;LLMs+%C2%B7+RAG+Systems+%C2%B7+ML+%C2%B7+PyTorch+%C2%B7+FastAPI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=7F77DD&center=true&vCenter=true&repeat=true&width=700&height=40&lines=4%2B+years+shipping+full-stack+web+%26+mobile+apps;MERN+Stack+%C2%B7+React+Native+%C2%B7+TypeScript+%C2%B7+Node.js;Now+going+all-in+on+AI+Engineering;LLMs+%C2%B7+RAG+Systems+%C2%B7+ML+%C2%B7+PyTorch+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
 </div>
 
