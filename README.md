@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<!-- Sameer Shoukat | Full Stack Developer | AI Engineer | MEAN Stack | React Native | LLMs | RAG | Node.js | Angular | MongoDB | TypeScript | Python | Machine Learning -->
+<!-- Sameer Shoukat | Full Stack Developer | AI Engineer | MEAN Stack | React Native | LLMs | RAG | Node.js | MongoDB | TypeScript | Python | Machine Learning -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1a1040,100:2d1b69&height=200&section=header&text=Sameer%20Shoukat&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Full%20Stack%20Developer%20%E2%86%92%20AI%20Engineer&descSize=18&descColor=AFA9EC&descAlignY=50&descAlign=50" width="100%" alt="Sameer Shoukat"/>
@@ -55,7 +55,7 @@ const sameer: Developer = {
 
   stack: {
     languages:  ["TypeScript", "JavaScript (ES6+)", "Python"],
-    frontend:   ["Angular 17", "React.js", "Next.js", "Vue.js / Nuxt.js"],
+    frontend:   ["React.js", "Next.js", "Vue.js / Nuxt.js"],
     mobile:     ["React Native", "Expo", "FCM / APNs push notifications"],
     backend:    ["Node.js", "Express.js", "Nest.js", "FastAPI"],
     databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
@@ -81,7 +81,7 @@ const sameer: Developer = {
 
 ## What I build
 
-**Full-stack web applications** — Angular, React, Next.js frontends wired to Node.js / Express / Nest.js backends, deployed on AWS and Vercel with real-time WebSocket features, JWT auth, and CI/CD pipelines.
+**Full-stack web applications** —React, Next.js frontends wired to Node.js / Express / Nest.js backends, deployed on AWS and Vercel with real-time WebSocket features, JWT auth, and CI/CD pipelines.
 
 **Cross-platform mobile apps** — React Native apps with Stripe payments, Google Maps, push notifications, published on App Store and Google Play.
 
@@ -97,16 +97,16 @@ const sameer: Developer = {
 
 ### SonderBlu — Streaming & Social Platform
 
-Full MEAN stack platform for movie enthusiasts. Built the Angular frontend, Node.js/Express API layer, and MongoDB database from the ground up.
+Full MERN stack platform for movie enthusiasts. Built the React/Next.js frontend, Node.js/Express API layer, and MongoDB database from the ground up.
 
 **Highlights**
-- 20+ Angular screens with real-time social feeds via WebSockets
+- 20+ Next.js screens with real-time social feeds via WebSockets
 - SSR with Next.js — Lighthouse score 90+
 - JWT / OAuth auth, RBAC middleware, role guards
 - CI/CD via GitHub Actions — 50% faster release cycle
 - 99.5% uptime, sub-2s load times in production
 
-**Stack:** Angular · Node.js · Express · MongoDB · WebSockets · NgRx · Docker
+**Stack:** Next.js · Node.js · Express · MongoDB · WebSockets · NgRx · Docker
 
 </td>
 <td width="50%">
