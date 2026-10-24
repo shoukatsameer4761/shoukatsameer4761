@@ -31,7 +31,7 @@
 
 <br/>
 
-## 👋 About me
+## About me
 
 I'm a full-stack engineer who has spent four years shipping production web and mobile products: streaming platforms with thousands of active users, food-delivery apps live on both app stores, and the APIs behind them. I care about clean architecture, fast UIs, and software that actually reaches users.
 
@@ -50,7 +50,7 @@ const sameer = {
 
 <br/>
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 <table>
@@ -83,13 +83,13 @@ const sameer = {
 
 <br/>
 
-## 🚀 Production work
+## Production work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 SonderBlu — Streaming &amp; Social Platform
+### SonderBlu — Streaming &amp; Social Platform
 
 MERN platform for movie enthusiasts. Built the Next.js frontend, Node.js/Express API layer, and MongoDB data model from the ground up.
 
@@ -104,7 +104,7 @@ MERN platform for movie enthusiasts. Built the Next.js frontend, Node.js/Express
 </td>
 <td width="50%" valign="top">
 
-### 🍕 ReiluKuljetus — Food Ordering App
+### ReiluKuljetus — Food Ordering App
 
 Cross-platform mobile app for the Finnish market. React Native client plus the complete Node.js/Express REST backend.
 
@@ -131,7 +131,7 @@ Cross-platform mobile app for the Finnish market. React Native client plus the c
 
 <br/>
 
-## 📊 By the numbers
+## By the numbers
 
 <div align="center">
 <table>
@@ -152,29 +152,29 @@ Cross-platform mobile app for the Finnish market. React Native client plus the c
 
 <br/>
 
-## 🧠 AI engineering roadmap
+## AI engineering roadmap
 
 A structured six-month program to move from full-stack into AI engineering, building in public along the way. Every project from it will be deployed and linked here.
 
 | Phase | Focus | Status |
 |:---:|---|:---:|
-| **01** | Python · NumPy · Pandas · Linear algebra · Statistics | 🟢 In progress |
-| **02** | Machine learning · scikit-learn · Andrew Ng course | ⚪ Upcoming |
-| **03** | Deep learning · PyTorch · CNNs · RNNs · Transformers | ⚪ Upcoming |
-| **04** | LLMs · OpenAI API · Prompt engineering · RAG systems | ⚪ Upcoming |
-| **05** | MLOps · Docker · CI/CD for ML · Model deployment | ⚪ Upcoming |
-| **06** | Portfolio projects · Computer vision · NLP · AI product launch | ⚪ Upcoming |
+| **01** | Python · NumPy · Pandas · Linear algebra · Statistics | In progress |
+| **02** | Machine learning · scikit-learn · Andrew Ng course | Upcoming |
+| **03** | Deep learning · PyTorch · CNNs · RNNs · Transformers | Upcoming |
+| **04** | LLMs · OpenAI API · Prompt engineering · RAG systems | Upcoming |
+| **05** | MLOps · Docker · CI/CD for ML · Model deployment | Upcoming |
+| **06** | Portfolio projects · Computer vision · NLP · AI product launch | Upcoming |
 
 **Currently building**
 
-- 🔢 **ML fundamentals** — linear regression, gradient descent, and classification implemented from scratch in Python
-- 📚 **RAG document Q&A** — FAISS + embeddings + OpenAI API pipeline over private documents
-- 🧩 **AI SaaS MVP** — FastAPI backend, Next.js frontend, LLM integration, cloud deployment
-- 👁️ **Computer vision** — object detection with PyTorch
+- **ML fundamentals** — linear regression, gradient descent, and classification implemented from scratch in Python
+- **RAG document Q&A** — FAISS + embeddings + OpenAI API pipeline over private documents
+- **AI SaaS MVP** — FastAPI backend, Next.js frontend, LLM integration, cloud deployment
+- **Computer vision** — object detection with PyTorch
 
 <br/>
 
-## 📈 GitHub activity
+## GitHub activity
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=shoukatsameer4761&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=534AB7&text_color=AFA9EC&count_private=true&ring_color=534AB7" alt="GitHub stats"/>
@@ -191,17 +191,9 @@ A structured six-month program to move from full-stack into AI engineering, buil
   <img src="https://ghchart.rshah.org/534AB7/shoukatsameer4761" width="100%" alt="Contribution calendar"/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoukatsameer4761/shoukatsameer4761/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoukatsameer4761/shoukatsameer4761/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/shoukatsameer4761/shoukatsameer4761/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
-  </picture>
-</div>
-
 <br/>
 
-## 🤝 Let's connect
+## Let's connect
 
 I'm open to **full-time remote roles**, **contract projects**, and **long-term partnerships** across full-stack, mobile, and AI engineering. I reply within 24 hours, and my GMT+5 timezone gives a consistent overlap with both US and EU hours.
 
