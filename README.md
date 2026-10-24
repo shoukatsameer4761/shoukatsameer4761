@@ -35,9 +35,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sameer447&label=Profile+Views&color=534AB7&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shoukatsameer4761&label=Profile+Views&color=534AB7&style=flat-square" alt="Profile views"/>
   &nbsp;·&nbsp;
-  <img src="https://img.shields.io/github/followers/Sameer447?label=Followers&style=flat-square&color=534AB7" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/shoukatsameer4761?label=Followers&style=flat-square&color=534AB7" alt="Followers"/>
 </p>
 
 ---
@@ -210,22 +210,30 @@ I am currently executing a structured 6-month program to move from Full Stack in
 ## GitHub stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sameer447&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=534AB7&text_color=C9D1D9&count_private=true&ring_color=534AB7" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=shoukatsameer4761&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=534AB7&text_color=C9D1D9&count_private=true&ring_color=534AB7" alt="GitHub Stats"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer447&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoukatsameer4761&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer447&theme=tokyonight&hide_border=true&background=0D1117&stroke=534AB7&ring=534AB7&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=7F77DD" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shoukatsameer4761&theme=tokyonight&hide_border=true&background=0D1117&stroke=534AB7&ring=534AB7&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=7F77DD" alt="GitHub Streak"/>
+</div>
+
+<!--
+  The public instances of these two widgets currently return HTTP 402 (the hosting
+  plan of the public deployment is exhausted), so they render as broken images for
+  everyone. Re-enable them after self-hosting on your own Vercel account:
+    https://github.com/Ashutosh00710/github-readme-activity-graph#deploy-on-your-own-vercel-instance
+    https://github.com/ryo-ma/github-profile-trophy#deploy-on-your-own-vercel-instance
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoukatsameer4761&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7F77DD&line=534AB7&point=AFA9EC&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer447&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=7F77DD&line=534AB7&point=AFA9EC&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shoukatsameer4761&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sameer447&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
-</div>
+-->
 
 ---
 
