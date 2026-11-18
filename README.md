@@ -2,7 +2,7 @@
 <!-- Sameer Shoukat | Senior React Native Developer | Mobile App Developer | iOS | Android | Expo | TypeScript | React | Next.js | Node.js | Claude Code -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,45:1a1040,100:534AB7&height=230&section=header&text=Sameer%20Shoukat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20React%20Native%20Developer%20%C2%B7%20iOS%20%26%20Android&descSize=20&descColor=AFA9EC&descAlignY=58" width="100%" alt="Sameer Shoukat — Senior React Native Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,45:1a1040,100:534AB7&height=230&section=header&text=Sameer%20Shoukat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20React%20Native%20Developer%20%C2%B7%20iOS%20and%20Android&descSize=20&descColor=AFA9EC&descAlignY=58" width="100%" alt="Sameer Shoukat — Senior React Native Developer"/>
 </div>
 
 <div align="center">
